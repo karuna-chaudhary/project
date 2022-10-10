@@ -29,12 +29,12 @@ body{
     font-size: 26px;
 }
 .info ul :hover{
-    color: rgb(255, 46, 46);
+    color: red
 
     
 }
 .info a {
-    color: rgb(190, 19, 19);
+    color:red;
     font-family: cursive;
     font-size: 25px;
     padding: 1px 22px;
