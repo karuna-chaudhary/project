@@ -15,7 +15,7 @@ body{
     text-decoration: none;
     overflow: auto;
     list-style: none;
-    padding: 3px;
+    padding: 4px;
     margin: 2px;
     text-align: center;
     cursor: pointer;
@@ -38,7 +38,7 @@ body{
     font-family: cursive;
     font-size: 25px;
     padding: 1px 22px;
-    /* margin: 5px 1px; */
+    margin: 5px 1px;
     text-align: center;
     text-decoration: none;
 }
@@ -48,7 +48,7 @@ body{
     width: 124px;
     height: 100px;
     padding: 1px;
-    /* margin: -18px 3px; */
+    margin: -18px 3px;
     margin-top: -25px;
 }
 .container{
